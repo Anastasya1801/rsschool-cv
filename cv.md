@@ -1,4 +1,4 @@
-![Photo](/photo.jpg)
+<!-- ![Photo](/photo.jpg) -->
 ### **Anastasiya** **Vashkevish**
 ##### Junior Software Engineer
 #### Contacts:
